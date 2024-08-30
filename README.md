@@ -28,7 +28,7 @@ The Dicee Game is a simple web application that simulates the roll of two dice, 
 1. **Clone the Repository:** Start by cloning the project to your local machine.
 
     ```bash
-    git clone https://github.com/username/dicee-game.git
+    git clone https://github.com/GavriloaiaMircea/Dice-Game.git
     cd dicee-game
     ```
 
